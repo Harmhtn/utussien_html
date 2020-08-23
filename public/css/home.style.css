@@ -172,7 +172,7 @@ section {
 }
 
 .collapse {
-    text-align: left;
+    text-align: left !important;
 }
 
 .rondleiding > ul > li {
