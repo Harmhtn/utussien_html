@@ -45,13 +45,14 @@ section {
 @media only screen and (max-width: 900px) {
     #intro {
         background: url("../images/ussien_logo_mobile.jpg")no-repeat center center;
+        background-size: auto;
 
 
     }
 }
 
 /* Extra extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 450px) {
     #intro {
         background: url("../images/ussien_logo_mobile.jpg")no-repeat center center fixed;
         background-size: 120%;
