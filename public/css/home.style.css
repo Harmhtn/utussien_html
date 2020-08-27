@@ -81,6 +81,10 @@ section {
 
 }
 
+#beleefhuis_link {
+    padding-top: 50px; margin-top: -50px;
+}
+
 #beleefhuis h1, h2, h4 {
     /*font-family: 'Calligraffitti', cursive;*/
     /*font-family: 'Dancing Script', cursive;*/
@@ -111,6 +115,10 @@ section {
     /*font-family: 'Tangerine', cursive;*/
 }
 
+#workshops_link {
+    padding-top: 50px; margin-top: -50px;
+}
+
 #subsidie {
 
 }
@@ -124,8 +132,16 @@ section {
     /*font-family: 'Tangerine', cursive;*/
 }
 
+#subsidie_link {
+    padding-top: 50px; margin-top: -50px;
+}
+
 #contact {
 
+}
+
+#contact_link {
+    padding-top: 50px; margin-top: -50px;
 }
 
 #contact h1, h2, h4 {
@@ -170,6 +186,10 @@ section {
     /*font-family: 'Parisienne', cursive;*/
     /*font-family: 'Pinyon Script', cursive;*/
     /*font-family: 'Tangerine', cursive;*/
+}
+
+#nieuws_link {
+    padding-top: 50px; margin-top: -50px;
 }
 
 .collapse {
