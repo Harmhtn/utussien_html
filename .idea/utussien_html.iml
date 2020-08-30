@@ -5,5 +5,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="gdpr-cookie-consent" level="application" />
+    <orderEntry type="library" name="cookie-consent" level="application" />
   </component>
 </module>
