@@ -22,7 +22,8 @@ h1 {
 }
 
 .navbar {
-    background-color: #ec1747;
+    background-color: #c71319;
+    color: white;
     text-align: center;
 }
 
@@ -32,9 +33,16 @@ h1 {
     /*background-color: black ;*/
 }
 
+.subtext-header {
+    text-shadow: 2px 2px black;
+}
+
+.title-text {
+    text-shadow: 2px 2px black;
+}
+
 #intro {
     background: url("../images/background_ussien_janneke.jpg")no-repeat center center fixed;
-    opacity: 0.8;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -75,9 +83,9 @@ h1 {
 
 
 .footer-copyright .a{
-    background-color: #ec1747;
+    background-color: #c71319;
     text-decoration: none;
-    color: black;
+    color: #ffffff;
 
 }
 
@@ -91,6 +99,6 @@ h1 {
 }
 
 .page-footer, .py-4 {
-    background-color: #EC1747;
+    background-color: #c71319;
 
 }

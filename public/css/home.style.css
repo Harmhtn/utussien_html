@@ -12,6 +12,17 @@ p {
     font-family: 'Roboto', sans-serif;
 }
 
+#contact a {
+    color: inherit;
+}
+
+#contact a:hover
+{
+    color: #c71319;
+    text-decoration:none;
+    cursor:pointer;
+}
+
 section {
     /*background-color: #dedede;*/
 }
@@ -28,12 +39,13 @@ section {
 
 }
 
+
 #intro {
     height: 100%;
 }
 
 #intro {
-    background: url("../images/ussien_logo.jpg")no-repeat center top fixed;
+    background: url("../images/Logo_beleefhuis-page-001.jpg")no-repeat center top fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -44,8 +56,8 @@ section {
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 900px) {
     #intro {
-        background: url("../images/ussien_logo_mobile.jpg")no-repeat center center;
-        background-size: auto;
+        background: url("../images/Logo_beleefhuis-page-001.jpg")no-repeat center center fixed;
+        background-size: 120%;
 
 
     }
@@ -54,7 +66,7 @@ section {
 /* Extra extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 450px) {
     #intro {
-        background: url("../images/ussien_logo_mobile.jpg")no-repeat center center fixed;
+        background: url("../images/Logo_beleefhuis-page-001.jpg")no-repeat center center fixed;
         background-size: 120%;
     }
 }
@@ -69,7 +81,7 @@ section {
 /*!* large devices (landscape tablets, 768px and up) *!*/
 @media only screen and (min-width: 1200px) {
     #intro {
-        background: url("../images/ussien_logo.jpg")no-repeat center top fixed;
+        background: url("../images/Logo_beleefhuis-page-001.jpg")no-repeat center top fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -119,6 +131,7 @@ section {
     padding-top: 50px; margin-top: -50px;
 }
 
+
 #subsidie {
 
 }
@@ -154,7 +167,7 @@ section {
 }
 
 .divide_line {
-    background-image: url("../images/rode_stof_cropped.jpg");
+    background-image: url("../images/rode_stof_cropped_2.jpg");
     background-size: contain;
     background-repeat: repeat;
     height: 50px;
@@ -201,9 +214,9 @@ section {
 }
 
 .footer-copyright .a{
-    background-color: #ec1747;
+    background-color: #c71319;
     text-decoration: none;
-    color: black;
+    color: #ffffff;
 
 }
 
@@ -217,7 +230,7 @@ section {
 }
 
 .page-footer, .py-4 {
-    background-color: #EC1747;
+    background-color: #c71319;
 
 }
 
